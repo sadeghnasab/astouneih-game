@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880951831212",
+    "project_id": "astoniea",
+    "storage_bucket": "astoniea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880951831212:android:44f6fce1ced3225ef40d09",
+        "android_client_info": {
+          "package_name": "com.example.tat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkHO2on7kOwBuD-Onsi2N16wqs3AHXaR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

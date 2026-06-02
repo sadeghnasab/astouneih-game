@@ -1,0 +1,3523 @@
+[
+  {
+    "ID": 1,
+    "fa_word": "اون",
+    "tati_word": "آ",
+    "pronunciation": "ā",
+    "Level": 1
+  },
+  {
+    "ID": 2,
+    "fa_word": "پارسال",
+    "tati_word": "آپاره",
+    "pronunciation": "āpāra",
+    "Level": 2
+  },
+  {
+    "ID": 3,
+    "fa_word": "آنجا",
+    "tati_word": "آجه",
+    "pronunciation": "j̄āa",
+    "Level": 1
+  },
+  {
+    "ID": 4,
+    "fa_word": "آچار",
+    "tati_word": "آچر",
+    "pronunciation": "čār",
+    "Level": 1
+  },
+  {
+    "ID": 5,
+    "fa_word": "اون چیزها",
+    "tati_word": "آخا",
+    "pronunciation": "āxā",
+    "Level": 2
+  },
+  {
+    "ID": 6,
+    "fa_word": "آدم",
+    "tati_word": "آدمی",
+    "pronunciation": "ādami",
+    "Level": 1
+  },
+  {
+    "ID": 7,
+    "fa_word": "جمعه",
+    "tati_word": "آدینه",
+    "pronunciation": "ādyna",
+    "Level": 3
+  },
+  {
+    "ID": 8,
+    "fa_word": "لاستیک",
+    "tati_word": "آره",
+    "pronunciation": "āra",
+    "Level": 3
+  },
+  {
+    "ID": 9,
+    "fa_word": "آرام",
+    "tati_word": "آروم",
+    "pronunciation": "ārom",
+    "Level": 1
+  },
+  {
+    "ID": 10,
+    "fa_word": "آهن",
+    "tati_word": "آسین",
+    "pronunciation": "āsan",
+    "Level": 3
+  },
+  {
+    "ID": 11,
+    "fa_word": "بعداً",
+    "tati_word": "آسی",
+    "pronunciation": "āsi",
+    "Level": 2
+  },
+  {
+    "ID": 12,
+    "fa_word": "آسیاب",
+    "tati_word": "آسیا",
+    "pronunciation": "āsyā",
+    "Level": 2
+  },
+  {
+    "ID": 13,
+    "fa_word": "آسیابان",
+    "tati_word": "آسیابن",
+    "pronunciation": "āsyābon",
+    "Level": 2
+  },
+  {
+    "ID": 14,
+    "fa_word": "هلو",
+    "tati_word": "آشتالوه",
+    "pronunciation": "šātālua",
+    "Level": 3
+  },
+  {
+    "ID": 15,
+    "fa_word": "شیر ماک",
+    "tati_word": "آغُز",
+    "pronunciation": "ɣāz",
+    "Level": 3
+  },
+  {
+    "ID": 16,
+    "fa_word": "آفتاب",
+    "tati_word": "آفتُو",
+    "pronunciation": "āfto",
+    "Level": 2
+  },
+  {
+    "ID": 17,
+    "fa_word": "آفتابه",
+    "tati_word": "آفتُولیه",
+    "pronunciation": "āftolya",
+    "Level": 3
+  },
+  {
+    "ID": 18,
+    "fa_word": "آتش",
+    "tati_word": "آلاوَه",
+    "pronunciation": "ālāva",
+    "Level": 1
+  },
+  {
+    "ID": 19,
+    "fa_word": "نوعی انگور",
+    "tati_word": "آلواره",
+    "pronunciation": "ālvāra",
+    "Level": 3
+  },
+  {
+    "ID": 20,
+    "fa_word": "آلبالو",
+    "tati_word": "آلوبالو",
+    "pronunciation": "ālobālo",
+    "Level": 1
+  },
+  {
+    "ID": 21,
+    "fa_word": "آلاچیق",
+    "tati_word": "آلها",
+    "pronunciation": "ālhā",
+    "Level": 2
+  },
+  {
+    "ID": 22,
+    "fa_word": "ما",
+    "tati_word": "آما",
+    "pronunciation": "āmā",
+    "Level": 1
+  },
+  {
+    "ID": 23,
+    "fa_word": "انبار",
+    "tati_word": "آمبار",
+    "pronunciation": "āmbār",
+    "Level": 2
+  },
+  {
+    "ID": 24,
+    "fa_word": "آن وقت",
+    "tati_word": "آواختی",
+    "pronunciation": "āvāxti",
+    "Level": 2
+  },
+  {
+    "ID": 25,
+    "fa_word": "آنطرف",
+    "tati_word": "آ-ور",
+    "pronunciation": "ā-var",
+    "Level": 1
+  },
+  {
+    "ID": 26,
+    "fa_word": "آبستن",
+    "tati_word": "آوَستُن",
+    "pronunciation": "ānaston",
+    "Level": 3
+  },
+  {
+    "ID": 27,
+    "fa_word": "آبله",
+    "tati_word": "آوله",
+    "pronunciation": "āvala",
+    "Level": 3
+  },
+  {
+    "ID": 28,
+    "fa_word": "آب",
+    "tati_word": "آوَه",
+    "pronunciation": "āva",
+    "Level": 1
+  },
+  {
+    "ID": 29,
+    "fa_word": "آب تنی",
+    "tati_word": "آوه زونی",
+    "pronunciation": "āvazoni",
+    "Level": 1
+  },
+  {
+    "ID": 30,
+    "fa_word": "پریروز",
+    "tati_word": "اَپرَه",
+    "pronunciation": "apyra",
+    "Level": 2
+  },
+  {
+    "ID": 31,
+    "fa_word": "بگیر",
+    "tati_word": "آجی",
+    "pronunciation": "ajy",
+    "Level": 1
+  },
+  {
+    "ID": 32,
+    "fa_word": "چه وقت",
+    "tati_word": "اچی",
+    "pronunciation": "ačy",
+    "Level": 2
+  },
+  {
+    "ID": 33,
+    "fa_word": "ارزان",
+    "tati_word": "آرزُون",
+    "pronunciation": "arzon",
+    "Level": 1
+  },
+  {
+    "ID": 34,
+    "fa_word": "اشک",
+    "tati_word": "ارسَه",
+    "pronunciation": "arsa",
+    "Level": 3
+  },
+  {
+    "ID": 35,
+    "fa_word": "رشته",
+    "tati_word": "آرشته",
+    "pronunciation": "aršta",
+    "Level": 1
+  },
+  {
+    "ID": 36,
+    "fa_word": "کود گاوی",
+    "tati_word": "إِزِم",
+    "pronunciation": "azm",
+    "Level": 3
+  },
+  {
+    "ID": 37,
+    "fa_word": "انبار کود",
+    "tati_word": "اِزمندون",
+    "pronunciation": "azamandon",
+    "Level": 3
+  },
+  {
+    "ID": 38,
+    "fa_word": "دیروز",
+    "tati_word": "اَزیره",
+    "pronunciation": "azyra",
+    "Level": 2
+  },
+  {
+    "ID": 39,
+    "fa_word": "شپش",
+    "tati_word": "اسبِجَه",
+    "pronunciation": "esbja",
+    "Level": 3
+  },
+  {
+    "ID": 40,
+    "fa_word": "اسپرک",
+    "tati_word": "اسبَرج",
+    "pronunciation": "asbarč",
+    "Level": 3
+  },
+  {
+    "ID": 41,
+    "fa_word": "اسب",
+    "tati_word": "اَسبَه",
+    "pronunciation": "Asba",
+    "Level": 2
+  },
+  {
+    "ID": 42,
+    "fa_word": "سگ",
+    "tati_word": "اَسبَه",
+    "pronunciation": "asba",
+    "Level": 2
+  },
+  {
+    "ID": 43,
+    "fa_word": "سفید",
+    "tati_word": "اِیسبی",
+    "pronunciation": "eysbi",
+    "Level": 1
+  },
+  {
+    "ID": 44,
+    "fa_word": "طحال",
+    "tati_word": "اَسپرز",
+    "pronunciation": "asbarz",
+    "Level": 3
+  },
+  {
+    "ID": 45,
+    "fa_word": "ستاره",
+    "tati_word": "استاریه",
+    "pronunciation": "astariya",
+    "Level": 2
+  },
+  {
+    "ID": 46,
+    "fa_word": "استکان",
+    "tati_word": "اِستچُوم",
+    "pronunciation": "estačom",
+    "Level": 1
+  },
+  {
+    "ID": 47,
+    "fa_word": "سیخک",
+    "tati_word": "اَستُومه",
+    "pronunciation": "astoma",
+    "Level": 3
+  },
+  {
+    "ID": 48,
+    "fa_word": "داستان",
+    "tati_word": "اَستُونِیه",
+    "pronunciation": "astoniya",
+    "Level": 2
+  },
+  {
+    "ID": 49,
+    "fa_word": "سیب",
+    "tati_word": "اَسیفَه",
+    "pronunciation": "asifa",
+    "Level": 1
+  },
+  {
+    "ID": 50,
+    "fa_word": "شتر",
+    "tati_word": "اُشتَر",
+    "pronunciation": "ošor",
+    "Level": 1
+  },
+  {
+    "ID": 51,
+    "fa_word": "خار شتری",
+    "tati_word": "اَشتَرتی",
+    "pronunciation": "ošorati",
+    "Level": 2
+  },
+  {
+    "ID": 52,
+    "fa_word": "شکم",
+    "tati_word": "اَشگم",
+    "pronunciation": "ašgm",
+    "Level": 3
+  },
+  {
+    "ID": 53,
+    "fa_word": "شکم",
+    "tati_word": "اَشگمبه",
+    "pronunciation": "ašgmba",
+    "Level": 2
+  },
+  {
+    "ID": 54,
+    "fa_word": "امشب",
+    "tati_word": "اَشوُن",
+    "pronunciation": "ašon",
+    "Level": 1
+  },
+  {
+    "ID": 55,
+    "fa_word": "کی",
+    "tati_word": "آکی",
+    "pronunciation": "aki",
+    "Level": 1
+  },
+  {
+    "ID": 56,
+    "fa_word": "شاخه",
+    "tati_word": "اَلزقَه",
+    "pronunciation": "alazga",
+    "Level": 3
+  },
+  {
+    "ID": 57,
+    "fa_word": "الان",
+    "tati_word": "الئوُن",
+    "pronunciation": "alon",
+    "Level": 2
+  },
+  {
+    "ID": 58,
+    "fa_word": "این",
+    "tati_word": "آم",
+    "pronunciation": "am",
+    "Level": 1
+  },
+  {
+    "ID": 59,
+    "fa_word": "گلابی",
+    "tati_word": "آمبُری",
+    "pronunciation": "ambori",
+    "Level": 2
+  },
+  {
+    "ID": 60,
+    "fa_word": "اینها",
+    "tati_word": "امخا",
+    "pronunciation": "amxā",
+    "Level": 2
+  },
+  {
+    "ID": 61,
+    "fa_word": "عادت کرده",
+    "tati_word": "آمخته",
+    "pronunciation": "aloxta",
+    "Level": 3
+  },
+  {
+    "ID": 62,
+    "fa_word": "لباس",
+    "tati_word": "امراض",
+    "pronunciation": "Amrãz",
+    "Level": 3
+  },
+  {
+    "ID": 63,
+    "fa_word": "انجیل",
+    "tati_word": "انجیله",
+    "pronunciation": "ajla",
+    "Level": 2
+  },
+  {
+    "ID": 64,
+    "fa_word": "آستین",
+    "tati_word": "آنگله",
+    "pronunciation": "angla",
+    "Level": 1
+  },
+  {
+    "ID": 65,
+    "fa_word": "انگشت",
+    "tati_word": "آنگوشته",
+    "pronunciation": "angošta",
+    "Level": 1
+  },
+  {
+    "ID": 66,
+    "fa_word": "انگشتری",
+    "tati_word": "آنگوشترکه",
+    "pronunciation": "angoštrča",
+    "Level": 2
+  },
+  {
+    "ID": 67,
+    "fa_word": "انگور",
+    "tati_word": "آنگوره",
+    "pronunciation": "Angora",
+    "Level": 1
+  },
+  {
+    "ID": 68,
+    "fa_word": "حالا",
+    "tati_word": "آنه",
+    "pronunciation": "Ana",
+    "Level": 1
+  },
+  {
+    "ID": 69,
+    "fa_word": "تعطیل",
+    "tati_word": "اوُراز",
+    "pronunciation": "Orāz",
+    "Level": 3
+  },
+  {
+    "ID": 70,
+    "fa_word": "مایع شیر",
+    "tati_word": "اُومی جن",
+    "pronunciation": "Umejn",
+    "Level": 3
+  },
+  {
+    "ID": 71,
+    "fa_word": "بدون",
+    "tati_word": "اَوی",
+    "pronunciation": "Avi",
+    "Level": 2
+  },
+  {
+    "ID": 72,
+    "fa_word": "نوعی نان",
+    "tati_word": "بابایی",
+    "pronunciation": "bābāyi",
+    "Level": 3
+  },
+  {
+    "ID": 73,
+    "fa_word": "زمین",
+    "tati_word": "بارجا",
+    "pronunciation": "bārjā",
+    "Level": 3
+  },
+  {
+    "ID": 74,
+    "fa_word": "همانند",
+    "tati_word": "بارِیچی",
+    "pronunciation": "bāreče",
+    "Level": 2
+  },
+  {
+    "ID": 75,
+    "fa_word": "باغبان",
+    "tati_word": "باغبن",
+    "pronunciation": "bāvbon",
+    "Level": 1
+  },
+  {
+    "ID": 76,
+    "fa_word": "باغ انگور",
+    "tati_word": "باغاستون",
+    "pronunciation": "bārāston",
+    "Level": 1
+  },
+  {
+    "ID": 77,
+    "fa_word": "متکا",
+    "tati_word": "بالِشمَه",
+    "pronunciation": "bālšma",
+    "Level": 2
+  },
+  {
+    "ID": 78,
+    "fa_word": "آنطور",
+    "tati_word": "بانا",
+    "pronunciation": "Bānā",
+    "Level": 1
+  },
+  {
+    "ID": 79,
+    "fa_word": "جغد",
+    "tati_word": "بایاقُش",
+    "pronunciation": "bāyɣoš",
+    "Level": 3
+  },
+  {
+    "ID": 80,
+    "fa_word": "پخته",
+    "tati_word": "بپته",
+    "pronunciation": "babata",
+    "Level": 2
+  },
+  {
+    "ID": 81,
+    "fa_word": "مثل اینکه",
+    "tati_word": "بدار",
+    "pronunciation": "bdār",
+    "Level": 1
+  },
+  {
+    "ID": 82,
+    "fa_word": "برادر",
+    "tati_word": "برا",
+    "pronunciation": "brā",
+    "Level": 1
+  },
+  {
+    "ID": 83,
+    "fa_word": "رسیده",
+    "tati_word": "بِرسستِه",
+    "pronunciation": "brasasta",
+    "Level": 2
+  },
+  {
+    "ID": 84,
+    "fa_word": "قورباغه",
+    "tati_word": "بِزغاب",
+    "pronunciation": "bzɣāb",
+    "Level": 3
+  },
+  {
+    "ID": 85,
+    "fa_word": "بز",
+    "tati_word": "بِزه",
+    "pronunciation": "bza",
+    "Level": 1
+  },
+  {
+    "ID": 86,
+    "fa_word": "آغوش",
+    "tati_word": "قُوجاق",
+    "pronunciation": "boɣol",
+    "Level": 2
+  },
+  {
+    "ID": 87,
+    "fa_word": "باقالی",
+    "tati_word": "بقله",
+    "pronunciation": "baɣala",
+    "Level": 3
+  },
+  {
+    "ID": 88,
+    "fa_word": "بلغور",
+    "tati_word": "بلغور",
+    "pronunciation": "balɣor",
+    "Level": 1
+  },
+  {
+    "ID": 89,
+    "fa_word": "بام",
+    "tati_word": "بُن",
+    "pronunciation": "Bon",
+    "Level": 2
+  },
+  {
+    "ID": 90,
+    "fa_word": "بنفشه",
+    "tati_word": "بَنوش",
+    "pronunciation": "banoš",
+    "Level": 2
+  },
+  {
+    "ID": 91,
+    "fa_word": "ته دیگ",
+    "tati_word": "بنه چاش",
+    "pronunciation": "Bnačāš",
+    "Level": 3
+  },
+  {
+    "ID": 92,
+    "fa_word": "گندیده",
+    "tati_word": "بُوبِچردَه",
+    "pronunciation": "bobčda",
+    "Level": 3
+  },
+  {
+    "ID": 93,
+    "fa_word": "کوچک",
+    "tati_word": "بُوجل",
+    "pronunciation": "bojl",
+    "Level": 2
+  },
+  {
+    "ID": 94,
+    "fa_word": "ران",
+    "tati_word": "بود",
+    "pronunciation": "Bod",
+    "Level": 1
+  },
+  {
+    "ID": 95,
+    "fa_word": "مثل اینکه",
+    "tati_word": "بیجیر",
+    "pronunciation": "byjyr",
+    "Level": 1
+  },
+  {
+    "ID": 96,
+    "fa_word": "بی دانه",
+    "tati_word": "بی دونه",
+    "pronunciation": "bydona",
+    "Level": 1
+  },
+  {
+    "ID": 97,
+    "fa_word": "مچ",
+    "tati_word": "بیلج",
+    "pronunciation": "bylaj",
+    "Level": 3
+  },
+  {
+    "ID": 98,
+    "fa_word": "داماد",
+    "tati_word": "بیک",
+    "pronunciation": "byk",
+    "Level": 3
+  },
+  {
+    "ID": 99,
+    "fa_word": "ساقدوش",
+    "tati_word": "بیک سُؤل",
+    "pronunciation": "bykasol",
+    "Level": 3
+  },
+  {
+    "ID": 100,
+    "fa_word": "این طور",
+    "tati_word": "بی نا",
+    "pronunciation": "binā",
+    "Level": 1
+  },
+  {
+    "ID": 101,
+    "fa_word": "پاشنه",
+    "tati_word": "پاقشُینیه",
+    "pronunciation": "pāɣšiniya",
+    "Level": 2
+  },
+  {
+    "ID": 102,
+    "fa_word": "پایین",
+    "tati_word": "پانیِور",
+    "pronunciation": "pānivar",
+    "Level": 1
+  },
+  {
+    "ID": 103,
+    "fa_word": "بوته",
+    "tati_word": "پتّه",
+    "pronunciation": "Pta",
+    "Level": 2
+  },
+  {
+    "ID": 104,
+    "fa_word": "کفش",
+    "tati_word": "پِجار",
+    "pronunciation": "pjār",
+    "Level": 2
+  },
+  {
+    "ID": 105,
+    "fa_word": "نوعی چوب",
+    "tati_word": "پَردُو",
+    "pronunciation": "pardu",
+    "Level": 3
+  },
+  {
+    "ID": 106,
+    "fa_word": "وصله",
+    "tati_word": "پَرک",
+    "pronunciation": "Park",
+    "Level": 3
+  },
+  {
+    "ID": 107,
+    "fa_word": "جلو",
+    "tati_word": "پرون",
+    "pronunciation": "Pron",
+    "Level": 1
+  },
+  {
+    "ID": 108,
+    "fa_word": "پستان",
+    "tati_word": "پِستن",
+    "pronunciation": "Peston",
+    "Level": 1
+  },
+  {
+    "ID": 109,
+    "fa_word": "آشپزخانه",
+    "tati_word": "پسینه",
+    "pronunciation": "Pasina",
+    "Level": 3
+  },
+  {
+    "ID": 110,
+    "fa_word": "پریروز",
+    "tati_word": "پس پِیرَه",
+    "pronunciation": "Paspyra",
+    "Level": 2
+  },
+  {
+    "ID": 111,
+    "fa_word": "پشیمان",
+    "tati_word": "پشیمن",
+    "pronunciation": "Pašimon",
+    "Level": 1
+  },
+  {
+    "ID": 112,
+    "fa_word": "پیشانی",
+    "tati_word": "پِیشُونیه",
+    "pronunciation": "pyšoniya",
+    "Level": 2
+  },
+  {
+    "ID": 113,
+    "fa_word": "پلوبرنج",
+    "tati_word": "پلا",
+    "pronunciation": "Pala",
+    "Level": 3
+  },
+  {
+    "ID": 114,
+    "fa_word": "دگمه",
+    "tati_word": "پُولکه",
+    "pronunciation": "Polaka",
+    "Level": 2
+  },
+  {
+    "ID": 115,
+    "fa_word": "نوعی نان",
+    "tati_word": "پَنجَه کش",
+    "pronunciation": "panjakš",
+    "Level": 3
+  },
+  {
+    "ID": 116,
+    "fa_word": "اشکنه",
+    "tati_word": "پیاز آوَه",
+    "pronunciation": "piyāzāva",
+    "Level": 3
+  },
+  {
+    "ID": 117,
+    "fa_word": "کاسه",
+    "tati_word": "پیاله",
+    "pronunciation": "piyāla",
+    "Level": 2
+  },
+  {
+    "ID": 118,
+    "fa_word": "پیرار",
+    "tati_word": "پیراره",
+    "pronunciation": "pirāra",
+    "Level": 3
+  },
+  {
+    "ID": 119,
+    "fa_word": "زشت",
+    "tati_word": "پیس",
+    "pronunciation": "pys",
+    "Level": 2
+  },
+  {
+    "ID": 120,
+    "fa_word": "پسته",
+    "tati_word": "پیستیه",
+    "pronunciation": "pistiya",
+    "Level": 2
+  },
+  {
+    "ID": 121,
+    "fa_word": "کش شلوار",
+    "tati_word": "پیستیه",
+    "pronunciation": "pistiya",
+    "Level": 2
+  },
+  {
+    "ID": 122,
+    "fa_word": "پیش رس",
+    "tati_word": "پیش رسه",
+    "pronunciation": "pišrasa",
+    "Level": 1
+  },
+  {
+    "ID": 123,
+    "fa_word": "بزرگ",
+    "tati_word": "پیله",
+    "pronunciation": "pila",
+    "Level": 2
+  },
+  {
+    "ID": 124,
+    "fa_word": "پدر بزرگ",
+    "tati_word": "پیله دَ",
+    "pronunciation": "pilada",
+    "Level": 2
+  },
+  {
+    "ID": 125,
+    "fa_word": "مادر بزرگ",
+    "tati_word": "پیله نَ",
+    "pronunciation": "pilana",
+    "Level": 2
+  },
+  {
+    "ID": 126,
+    "fa_word": "تخته",
+    "tati_word": "تاخته",
+    "pronunciation": "tāxta",
+    "Level": 1
+  },
+  {
+    "ID": 127,
+    "fa_word": "ترازو",
+    "tati_word": "تارا زو",
+    "pronunciation": "tārāzo",
+    "Level": 1
+  },
+  {
+    "ID": 128,
+    "fa_word": "تاریک",
+    "tati_word": "تارج",
+    "pronunciation": "tārč",
+    "Level": 2
+  },
+  {
+    "ID": 129,
+    "fa_word": "عنکبوت",
+    "tati_word": "تاره ت نچه",
+    "pronunciation": "tāratanča",
+    "Level": 3
+  },
+  {
+    "ID": 130,
+    "fa_word": "ندید بدید",
+    "tati_word": "تامار زو",
+    "pronunciation": "tāmārzo",
+    "Level": 3
+  },
+  {
+    "ID": 131,
+    "fa_word": "چوب تنور",
+    "tati_word": "تانا شون",
+    "pronunciation": "tānāšon",
+    "Level": 3
+  },
+  {
+    "ID": 132,
+    "fa_word": "تابه",
+    "tati_word": "تاوه",
+    "pronunciation": "tāva",
+    "Level": 1
+  },
+  {
+    "ID": 133,
+    "fa_word": "تابستان",
+    "tati_word": "تاوستون",
+    "pronunciation": "tāvaston",
+    "Level": 1
+  },
+  {
+    "ID": 134,
+    "fa_word": "برگه امتحانی",
+    "tati_word": "تباق",
+    "pronunciation": "tabāɣ",
+    "Level": 3
+  },
+  {
+    "ID": 135,
+    "fa_word": "لگد",
+    "tati_word": "تچولیه",
+    "pronunciation": "točoliya",
+    "Level": 2
+  },
+  {
+    "ID": 136,
+    "fa_word": "ترب",
+    "tati_word": "ترپه",
+    "pronunciation": "Torpa",
+    "Level": 1
+  },
+  {
+    "ID": 137,
+    "fa_word": "تکان",
+    "tati_word": "تَچوم",
+    "pronunciation": "tačom",
+    "Level": 2
+  },
+  {
+    "ID": 138,
+    "fa_word": "نوعی حلوا",
+    "tati_word": "ترچی",
+    "pronunciation": "tarači",
+    "Level": 3
+  },
+  {
+    "ID": 139,
+    "fa_word": "تلخ",
+    "tati_word": "تل",
+    "pronunciation": "Tal",
+    "Level": 1
+  },
+  {
+    "ID": 140,
+    "fa_word": "سنگ",
+    "tati_word": "تله",
+    "pronunciation": "Tala",
+    "Level": 2
+  },
+  {
+    "ID": 141,
+    "fa_word": "نوعی گیاه",
+    "tati_word": "تل لَه",
+    "pronunciation": "talla",
+    "Level": 3
+  },
+  {
+    "ID": 142,
+    "fa_word": "نانوایی",
+    "tati_word": "تنس تون",
+    "pronunciation": "tanaston",
+    "Level": 3
+  },
+  {
+    "ID": 143,
+    "fa_word": "تنک",
+    "tati_word": "تَنک",
+    "pronunciation": "Tonok",
+    "Level": 2
+  },
+  {
+    "ID": 144,
+    "fa_word": "شورت",
+    "tati_word": "تَنکه",
+    "pronunciation": "Tonoka",
+    "Level": 2
+  },
+  {
+    "ID": 145,
+    "fa_word": "تنور",
+    "tati_word": "تنه",
+    "pronunciation": "Tana",
+    "Level": 2
+  },
+  {
+    "ID": 146,
+    "fa_word": "تنها",
+    "tati_word": "تَنی یا",
+    "pronunciation": "taniyā",
+    "Level": 1
+  },
+  {
+    "ID": 147,
+    "fa_word": "تو",
+    "tati_word": "ته",
+    "pronunciation": "ta",
+    "Level": 1
+  },
+  {
+    "ID": 148,
+    "fa_word": "تبر",
+    "tati_word": "تَه ور",
+    "pronunciation": "tavar",
+    "Level": 1
+  },
+  {
+    "ID": 149,
+    "fa_word": "توبره",
+    "tati_word": "تُو آره",
+    "pronunciation": "toāra",
+    "Level": 2
+  },
+  {
+    "ID": 150,
+    "fa_word": "لگد",
+    "tati_word": "تُو چُولی یَه",
+    "pronunciation": "točoliya",
+    "Level": 2
+  },
+  {
+    "ID": 151,
+    "fa_word": "چکه",
+    "tati_word": "تُوچُونَه",
+    "pronunciation": "točona",
+    "Level": 3
+  },
+  {
+    "ID": 152,
+    "fa_word": "دیوانه",
+    "tati_word": "تور",
+    "pronunciation": "tor",
+    "Level": 2
+  },
+  {
+    "ID": 153,
+    "fa_word": "نوک",
+    "tati_word": "تُوک",
+    "pronunciation": "Tok",
+    "Level": 2
+  },
+  {
+    "ID": 154,
+    "fa_word": "تیغ",
+    "tati_word": "تی",
+    "pronunciation": "ty",
+    "Level": 2
+  },
+  {
+    "ID": 155,
+    "fa_word": "دختر",
+    "tati_word": "تی تیه",
+    "pronunciation": "titiya",
+    "Level": 1
+  },
+  {
+    "ID": 156,
+    "fa_word": "تگرگ",
+    "tati_word": "تی یَرجَه",
+    "pronunciation": "tiyarja",
+    "Level": 3
+  },
+  {
+    "ID": 157,
+    "fa_word": "آبگوشت",
+    "tati_word": "تی یَرَه",
+    "pronunciation": "tiyara",
+    "Level": 3
+  },
+  {
+    "ID": 158,
+    "fa_word": "قدم",
+    "tati_word": "جادِم",
+    "pronunciation": "jādm",
+    "Level": 3
+  },
+  {
+    "ID": 159,
+    "fa_word": "گاومیش",
+    "tati_word": "جامُوش",
+    "pronunciation": "jāmoš",
+    "Level": 2
+  },
+  {
+    "ID": 160,
+    "fa_word": "جوال",
+    "tati_word": "جاوال",
+    "pronunciation": "jāvāl",
+    "Level": 2
+  },
+  {
+    "ID": 161,
+    "fa_word": "گاورس",
+    "tati_word": "جاورس",
+    "pronunciation": "jāvars",
+    "Level": 3
+  },
+  {
+    "ID": 162,
+    "fa_word": "گاورسینه",
+    "tati_word": "جاورسینه",
+    "pronunciation": "jāvarsina",
+    "Level": 3
+  },
+  {
+    "ID": 163,
+    "fa_word": "بسته شده",
+    "tati_word": "جرته",
+    "pronunciation": "Jerta",
+    "Level": 2
+  },
+  {
+    "ID": 164,
+    "fa_word": "جر خورده",
+    "tati_word": "جرته",
+    "pronunciation": "jerta",
+    "Level": 2
+  },
+  {
+    "ID": 165,
+    "fa_word": "نوعی نان",
+    "tati_word": "جِردَه",
+    "pronunciation": "Jerda",
+    "Level": 3
+  },
+  {
+    "ID": 166,
+    "fa_word": "حرف",
+    "tati_word": "جَف",
+    "pronunciation": "Jaf",
+    "Level": 1
+  },
+  {
+    "ID": 167,
+    "fa_word": "جفت",
+    "tati_word": "جِ فت",
+    "pronunciation": "Jeft",
+    "Level": 1
+  },
+  {
+    "ID": 168,
+    "fa_word": "کوچک",
+    "tati_word": "جِ قل",
+    "pronunciation": "jeɣl",
+    "Level": 1
+  },
+  {
+    "ID": 169,
+    "fa_word": "گل",
+    "tati_word": "جل",
+    "pronunciation": "Jel",
+    "Level": 3
+  },
+  {
+    "ID": 170,
+    "fa_word": "جوجه",
+    "tati_word": "جی له",
+    "pronunciation": "Jila",
+    "Level": 2
+  },
+  {
+    "ID": 171,
+    "fa_word": "جُل",
+    "tati_word": "جُل",
+    "pronunciation": "jel",
+    "Level": 2
+  },
+  {
+    "ID": 172,
+    "fa_word": "جنگل",
+    "tati_word": "جن جل",
+    "pronunciation": "Janjal",
+    "Level": 2
+  },
+  {
+    "ID": 173,
+    "fa_word": "جوال دوز",
+    "tati_word": "جندوجه",
+    "pronunciation": "Jandoja",
+    "Level": 3
+  },
+  {
+    "ID": 174,
+    "fa_word": "گاو",
+    "tati_word": "ماجاوَ",
+    "pronunciation": "Jo",
+    "Level": 2
+  },
+  {
+    "ID": 175,
+    "fa_word": "جو",
+    "tati_word": "جو",
+    "pronunciation": "Jo",
+    "Level": 1
+  },
+  {
+    "ID": 176,
+    "fa_word": "بالا",
+    "tati_word": "جُوارا",
+    "pronunciation": "juārā",
+    "Level": 2
+  },
+  {
+    "ID": 177,
+    "fa_word": "جوراب",
+    "tati_word": "جَورَب",
+    "pronunciation": "Jorab",
+    "Level": 1
+  },
+  {
+    "ID": 178,
+    "fa_word": "گرسنه",
+    "tati_word": "جُوسنه",
+    "pronunciation": "Josna",
+    "Level": 1
+  },
+  {
+    "ID": 179,
+    "fa_word": "کثیف",
+    "tati_word": "ج ول",
+    "pronunciation": "jval",
+    "Level": 2
+  },
+  {
+    "ID": 180,
+    "fa_word": "این",
+    "tati_word": "جم",
+    "pronunciation": "Jam",
+    "Level": 1
+  },
+  {
+    "ID": 181,
+    "fa_word": "کاسه/جام",
+    "tati_word": "جوم",
+    "pronunciation": "Jom",
+    "Level": 3
+  },
+  {
+    "ID": 182,
+    "fa_word": "جامه",
+    "tati_word": "جومه",
+    "pronunciation": "Joma",
+    "Level": 2
+  },
+  {
+    "ID": 183,
+    "fa_word": "گنبد",
+    "tati_word": "جوم بز",
+    "pronunciation": "jombaz",
+    "Level": 3
+  },
+  {
+    "ID": 184,
+    "fa_word": "گونی",
+    "tati_word": "جونی",
+    "pronunciation": "Joni",
+    "Level": 1
+  },
+  {
+    "ID": 185,
+    "fa_word": "جدا",
+    "tati_word": "جیا",
+    "pronunciation": "Jiyā",
+    "Level": 1
+  },
+  {
+    "ID": 186,
+    "fa_word": "گیج",
+    "tati_word": "جی ج",
+    "pronunciation": "Jij",
+    "Level": 2
+  },
+  {
+    "ID": 187,
+    "fa_word": "ریشه",
+    "tati_word": "جی جینه",
+    "pronunciation": "jijina",
+    "Level": 3
+  },
+  {
+    "ID": 188,
+    "fa_word": "زیر",
+    "tati_word": "جیر",
+    "pronunciation": "jer",
+    "Level": 1
+  },
+  {
+    "ID": 189,
+    "fa_word": "پایین",
+    "tati_word": "جیرا",
+    "pronunciation": "jerā",
+    "Level": 1
+  },
+  {
+    "ID": 190,
+    "fa_word": "گیلاس",
+    "tati_word": "جیلاس",
+    "pronunciation": "jilās",
+    "Level": 1
+  },
+  {
+    "ID": 191,
+    "fa_word": "نوعی چوب",
+    "tati_word": "جی له ما",
+    "pronunciation": "jilamā",
+    "Level": 3
+  },
+  {
+    "ID": 192,
+    "fa_word": "پستو",
+    "tati_word": "چندوله",
+    "pronunciation": "čandula",
+    "Level": 3
+  },
+  {
+    "ID": 193,
+    "fa_word": "کدبانو",
+    "tati_word": "چی بو نوئه",
+    "pronunciation": "čibonoa",
+    "Level": 2
+  },
+  {
+    "ID": 194,
+    "fa_word": "برای چه",
+    "tati_word": "چی را",
+    "pronunciation": "čirā",
+    "Level": 1
+  },
+  {
+    "ID": 195,
+    "fa_word": "چهار",
+    "tati_word": "چار",
+    "pronunciation": "čār",
+    "Level": 1
+  },
+  {
+    "ID": 196,
+    "fa_word": "کار",
+    "tati_word": "چار",
+    "pronunciation": "čār",
+    "Level": 1
+  },
+  {
+    "ID": 197,
+    "fa_word": "گوسفند",
+    "tati_word": "چاروا",
+    "pronunciation": "čārvā",
+    "Level": 2
+  },
+  {
+    "ID": 198,
+    "fa_word": "چادر",
+    "tati_word": "چا شُو قه",
+    "pronunciation": "čāšoɣa",
+    "Level": 3
+  },
+  {
+    "ID": 199,
+    "fa_word": "کاشی",
+    "tati_word": "چا شیه",
+    "pronunciation": "čāšya",
+    "Level": 2
+  },
+  {
+    "ID": 200,
+    "fa_word": "کاغذ",
+    "tati_word": "چاقَذ",
+    "pronunciation": "čāɣaz",
+    "Level": 1
+  },
+  {
+    "ID": 201,
+    "fa_word": "چاه",
+    "tati_word": "چاق",
+    "pronunciation": "čāɣ",
+    "Level": 1
+  },
+  {
+    "ID": 202,
+    "fa_word": "شالی",
+    "tati_word": "چالِچ",
+    "pronunciation": "čālaj",
+    "Level": 2
+  },
+  {
+    "ID": 203,
+    "fa_word": "خربزه",
+    "tati_word": "چالِچَه",
+    "pronunciation": "čālača",
+    "Level": 2
+  },
+  {
+    "ID": 204,
+    "fa_word": "شال",
+    "tati_word": "چاله",
+    "pronunciation": "čāla",
+    "Level": 2
+  },
+  {
+    "ID": 205,
+    "fa_word": "شیر ماک",
+    "tati_word": "چاله",
+    "pronunciation": "čāla",
+    "Level": 1
+  },
+  {
+    "ID": 206,
+    "fa_word": "بز نر",
+    "tati_word": "چَ بش",
+    "pronunciation": "čabaš",
+    "Level": 3
+  },
+  {
+    "ID": 207,
+    "fa_word": "کت",
+    "tati_word": "چُت",
+    "pronunciation": "čot",
+    "Level": 1
+  },
+  {
+    "ID": 208,
+    "fa_word": "توله",
+    "tati_word": "چُته",
+    "pronunciation": "čota",
+    "Level": 2
+  },
+  {
+    "ID": 209,
+    "fa_word": "کتاب",
+    "tati_word": "چِ تاب",
+    "pronunciation": "čatāb",
+    "Level": 1
+  },
+  {
+    "ID": 210,
+    "fa_word": "کتانی",
+    "tati_word": "چَتونی",
+    "pronunciation": "čatoni",
+    "Level": 1
+  },
+  {
+    "ID": 211,
+    "fa_word": "چانه",
+    "tati_word": "چَچَن",
+    "pronunciation": "čačan",
+    "Level": 3
+  },
+  {
+    "ID": 212,
+    "fa_word": "کدو",
+    "tati_word": "چ د وه",
+    "pronunciation": "čadoa",
+    "Level": 1
+  },
+  {
+    "ID": 213,
+    "fa_word": "مرغ",
+    "tati_word": "چَرچَه",
+    "pronunciation": "čarča",
+    "Level": 1
+  },
+  {
+    "ID": 214,
+    "fa_word": "بله / آری",
+    "tati_word": "چ را",
+    "pronunciation": "čarā",
+    "Level": 1
+  },
+  {
+    "ID": 215,
+    "fa_word": "چراغ",
+    "tati_word": "چ را",
+    "pronunciation": "čarā",
+    "Level": 2
+  },
+  {
+    "ID": 216,
+    "fa_word": "چرک",
+    "tati_word": "چِرچ",
+    "pronunciation": "čarča",
+    "Level": 1
+  },
+  {
+    "ID": 217,
+    "fa_word": "گرچک",
+    "tati_word": "چرچیجه",
+    "pronunciation": "čarčija",
+    "Level": 2
+  },
+  {
+    "ID": 218,
+    "fa_word": "تخم مرغ",
+    "tati_word": "چَرخا",
+    "pronunciation": "čarxā",
+    "Level": 1
+  },
+  {
+    "ID": 219,
+    "fa_word": "چشم",
+    "tati_word": "چَش",
+    "pronunciation": "čaš",
+    "Level": 1
+  },
+  {
+    "ID": 220,
+    "fa_word": "کش",
+    "tati_word": "چَشو",
+    "pronunciation": "čaš",
+    "Level": 2
+  },
+  {
+    "ID": 221,
+    "fa_word": "کشو",
+    "tati_word": "چَشو",
+    "pronunciation": "čašo",
+    "Level": 2
+  },
+  {
+    "ID": 222,
+    "fa_word": "زیپ",
+    "tati_word": "چَشو",
+    "pronunciation": "čašo",
+    "Level": 1
+  },
+  {
+    "ID": 223,
+    "fa_word": "کوفته",
+    "tati_word": "چِف ته",
+    "pronunciation": "čfta",
+    "Level": 2
+  },
+  {
+    "ID": 224,
+    "fa_word": "چاق",
+    "tati_word": "چِف ته",
+    "pronunciation": "čfta",
+    "Level": 2
+  },
+  {
+    "ID": 225,
+    "fa_word": "شن درشت",
+    "tati_word": "چَ قل",
+    "pronunciation": "čagal",
+    "Level": 2
+  },
+  {
+    "ID": 226,
+    "fa_word": "وزغ",
+    "tati_word": "چکلیزچه",
+    "pronunciation": "čklizača",
+    "Level": 3
+  },
+  {
+    "ID": 227,
+    "fa_word": "خوشه",
+    "tati_word": "چلاله",
+    "pronunciation": "čalāla",
+    "Level": 2
+  },
+  {
+    "ID": 228,
+    "fa_word": "چهلم",
+    "tati_word": "چله",
+    "pronunciation": "čala",
+    "Level": 1
+  },
+  {
+    "ID": 229,
+    "fa_word": "کاسه توالت",
+    "tati_word": "چله",
+    "pronunciation": "čala",
+    "Level": 3
+  },
+  {
+    "ID": 230,
+    "fa_word": "آبکش",
+    "tati_word": "چله سوزن",
+    "pronunciation": "člesozn",
+    "Level": 3
+  },
+  {
+    "ID": 231,
+    "fa_word": "کرم",
+    "tati_word": "چِل مَه",
+    "pronunciation": "člma",
+    "Level": 2
+  },
+  {
+    "ID": 232,
+    "fa_word": "کرمو",
+    "tati_word": "چِل مَه جِین",
+    "pronunciation": "člmajin",
+    "Level": 3
+  },
+  {
+    "ID": 233,
+    "fa_word": "مال من",
+    "tati_word": "چِ من",
+    "pronunciation": "čemen",
+    "Level": 1
+  },
+  {
+    "ID": 234,
+    "fa_word": "چغندر",
+    "tati_word": "چَن دَ ر",
+    "pronunciation": "čandar",
+    "Level": 2
+  },
+  {
+    "ID": 235,
+    "fa_word": "کهنه",
+    "tati_word": "چُنه",
+    "pronunciation": "čona",
+    "Level": 1
+  },
+  {
+    "ID": 236,
+    "fa_word": "چوب",
+    "tati_word": "چو",
+    "pronunciation": "ču",
+    "Level": 1
+  },
+  {
+    "ID": 237,
+    "fa_word": "توله",
+    "tati_word": "چُوتَه",
+    "pronunciation": "čota",
+    "Level": 1
+  },
+  {
+    "ID": 238,
+    "fa_word": "بیابان",
+    "tati_word": "چُول",
+    "pronunciation": "čol",
+    "Level": 3
+  },
+  {
+    "ID": 239,
+    "fa_word": "صندوق",
+    "tati_word": "چولینه",
+    "pronunciation": "čolina",
+    "Level": 3
+  },
+  {
+    "ID": 240,
+    "fa_word": "کلنگ",
+    "tati_word": "چولنوج",
+    "pronunciation": "čolonj",
+    "Level": 1
+  },
+  {
+    "ID": 241,
+    "fa_word": "ما/مال ما",
+    "tati_word": "چو ما",
+    "pronunciation": "čomā",
+    "Level": 1
+  },
+  {
+    "ID": 242,
+    "fa_word": "چینه",
+    "tati_word": "چی نی یه",
+    "pronunciation": "činiya",
+    "Level": 2
+  },
+  {
+    "ID": 243,
+    "fa_word": "وسایل",
+    "tati_word": "چی می",
+    "pronunciation": "čimi",
+    "Level": 3
+  },
+  {
+    "ID": 244,
+    "fa_word": "چوب",
+    "tati_word": "چُوشه",
+    "pronunciation": "čuša",
+    "Level": 2
+  },
+  {
+    "ID": 245,
+    "fa_word": "کرسی",
+    "tati_word": "چُو رسی",
+    "pronunciation": "čorsi",
+    "Level": 1
+  },
+  {
+    "ID": 246,
+    "fa_word": "فرسوده",
+    "tati_word": "چُورمِش",
+    "pronunciation": "čormaš",
+    "Level": 3
+  },
+  {
+    "ID": 247,
+    "fa_word": "چربی",
+    "tati_word": "چُوری",
+    "pronunciation": "čori",
+    "Level": 2
+  },
+  {
+    "ID": 248,
+    "fa_word": "کبود",
+    "tati_word": "چُوعَه",
+    "pronunciation": "čoaa",
+    "Level": 3
+  },
+  {
+    "ID": 249,
+    "fa_word": "کبریت",
+    "tati_word": "چیل بیت",
+    "pronunciation": "čilbit",
+    "Level": 1
+  },
+  {
+    "ID": 250,
+    "fa_word": "کلید",
+    "tati_word": "چیلیه",
+    "pronunciation": "čiliya",
+    "Level": 2
+  },
+  {
+    "ID": 251,
+    "fa_word": "چگونه",
+    "tati_word": "چینا",
+    "pronunciation": "činā",
+    "Level": 1
+  },
+  {
+    "ID": 252,
+    "fa_word": "گول زدن",
+    "tati_word": "حُقه",
+    "pronunciation": "hoga",
+    "Level": 1
+  },
+  {
+    "ID": 253,
+    "fa_word": "تهوع",
+    "tati_word": "حُقه",
+    "pronunciation": "hoga",
+    "Level": 1
+  },
+  {
+    "ID": 254,
+    "fa_word": "خاک",
+    "tati_word": "خاچه",
+    "pronunciation": "Xāča",
+    "Level": 1
+  },
+  {
+    "ID": 255,
+    "fa_word": "خوب",
+    "tati_word": "خار",
+    "pronunciation": "xār",
+    "Level": 1
+  },
+  {
+    "ID": 256,
+    "fa_word": "نوعی تخم مرغ",
+    "tati_word": "خاریت",
+    "pronunciation": "Xārit",
+    "Level": 1
+  },
+  {
+    "ID": 257,
+    "fa_word": "دایی",
+    "tati_word": "خالو",
+    "pronunciation": "Xālo",
+    "Level": 1
+  },
+  {
+    "ID": 258,
+    "fa_word": "خرگوش",
+    "tati_word": "خ روش",
+    "pronunciation": "Xaroš",
+    "Level": 1
+  },
+  {
+    "ID": 259,
+    "fa_word": "مدفوع الاغ",
+    "tati_word": "خرستون",
+    "pronunciation": "Xaraston",
+    "Level": 2
+  },
+  {
+    "ID": 260,
+    "fa_word": "گِل",
+    "tati_word": "خَرَه",
+    "pronunciation": "Xara",
+    "Level": 2
+  },
+  {
+    "ID": 261,
+    "fa_word": "الاغ",
+    "tati_word": "خَرَه",
+    "pronunciation": "Xra",
+    "Level": 2
+  },
+  {
+    "ID": 262,
+    "fa_word": "تراش",
+    "tati_word": "خ زن",
+    "pronunciation": "Xazan",
+    "Level": 3
+  },
+  {
+    "ID": 263,
+    "fa_word": "خیس",
+    "tati_word": "خُس",
+    "pronunciation": "Xos",
+    "Level": 1
+  },
+  {
+    "ID": 264,
+    "fa_word": "پرپشت",
+    "tati_word": "خست",
+    "pronunciation": "Xast",
+    "Level": 3
+  },
+  {
+    "ID": 265,
+    "fa_word": "استخوان",
+    "tati_word": "خَسته",
+    "pronunciation": "Xasta",
+    "Level": 2
+  },
+  {
+    "ID": 266,
+    "fa_word": "هسته",
+    "tati_word": "خستی یه",
+    "pronunciation": "Xastiya",
+    "Level": 2
+  },
+  {
+    "ID": 267,
+    "fa_word": "حنا",
+    "tati_word": "خ نه",
+    "pronunciation": "Xana",
+    "Level": 3
+  },
+  {
+    "ID": 268,
+    "fa_word": "خواب",
+    "tati_word": "خو",
+    "pronunciation": "Xo",
+    "Level": 1
+  },
+  {
+    "ID": 269,
+    "fa_word": "خواهر",
+    "tati_word": "خوچه",
+    "pronunciation": "xoča",
+    "Level": 2
+  },
+  {
+    "ID": 270,
+    "fa_word": "خر خاکی",
+    "tati_word": "خورده خرک",
+    "pronunciation": "xordaxarč",
+    "Level": 3
+  },
+  {
+    "ID": 271,
+    "fa_word": "کوچک",
+    "tati_word": "خوردیج",
+    "pronunciation": "xordič",
+    "Level": 2
+  },
+  {
+    "ID": 272,
+    "fa_word": "آبشار",
+    "tati_word": "خورنا",
+    "pronunciation": "Xorna",
+    "Level": 3
+  },
+  {
+    "ID": 273,
+    "fa_word": "خروس",
+    "tati_word": "خوروز",
+    "pronunciation": "Xoroz",
+    "Level": 1
+  },
+  {
+    "ID": 274,
+    "fa_word": "شن",
+    "tati_word": "خوزه",
+    "pronunciation": "Xoza",
+    "Level": 3
+  },
+  {
+    "ID": 275,
+    "fa_word": "خودت",
+    "tati_word": "خوشتن",
+    "pronunciation": "Xoštan",
+    "Level": 1
+  },
+  {
+    "ID": 276,
+    "fa_word": "نرمش",
+    "tati_word": "خوشومه",
+    "pronunciation": "Xošoma",
+    "Level": 2
+  },
+  {
+    "ID": 277,
+    "fa_word": "پارو",
+    "tati_word": "خوعه",
+    "pronunciation": "Xoa",
+    "Level": 3
+  },
+  {
+    "ID": 278,
+    "fa_word": "کج",
+    "tati_word": "خول",
+    "pronunciation": "Xol",
+    "Level": 2
+  },
+  {
+    "ID": 279,
+    "fa_word": "آب دهن",
+    "tati_word": "خولش جه",
+    "pronunciation": "Xolašja",
+    "Level": 3
+  },
+  {
+    "ID": 280,
+    "fa_word": "سوراخ",
+    "tati_word": "خولی یه",
+    "pronunciation": "Xoliya",
+    "Level": 2
+  },
+  {
+    "ID": 281,
+    "fa_word": "خام",
+    "tati_word": "خوم",
+    "pronunciation": "Xom",
+    "Level": 1
+  },
+  {
+    "ID": 282,
+    "fa_word": "خمره",
+    "tati_word": "خومبه",
+    "pronunciation": "Xomba",
+    "Level": 3
+  },
+  {
+    "ID": 283,
+    "fa_word": "خاموش",
+    "tati_word": "خومش",
+    "pronunciation": "Xomaš",
+    "Level": 1
+  },
+  {
+    "ID": 284,
+    "fa_word": "سرفه",
+    "tati_word": "خ وه",
+    "pronunciation": "Xava",
+    "Level": 3
+  },
+  {
+    "ID": 285,
+    "fa_word": "عمه",
+    "tati_word": "دادا",
+    "pronunciation": "dādā",
+    "Level": 1
+  },
+  {
+    "ID": 286,
+    "fa_word": "درخت",
+    "tati_word": "دار",
+    "pronunciation": "dār",
+    "Level": 1
+  },
+  {
+    "ID": 287,
+    "fa_word": "داس",
+    "tati_word": "داره",
+    "pronunciation": "dāra",
+    "Level": 1
+  },
+  {
+    "ID": 288,
+    "fa_word": "دف/دایره",
+    "tati_word": "داریه",
+    "pronunciation": "dāriya",
+    "Level": 3
+  },
+  {
+    "ID": 289,
+    "fa_word": "دامن",
+    "tati_word": "دمون",
+    "pronunciation": "Damon",
+    "Level": 1
+  },
+  {
+    "ID": 290,
+    "fa_word": "نوک",
+    "tati_word": "دندوکه",
+    "pronunciation": "Dandoka",
+    "Level": 3
+  },
+  {
+    "ID": 291,
+    "fa_word": "دندان",
+    "tati_word": "دن دون",
+    "pronunciation": "Dandon",
+    "Level": 1
+  },
+  {
+    "ID": 292,
+    "fa_word": "دوغ",
+    "tati_word": "دو",
+    "pronunciation": "Du",
+    "Level": 2
+  },
+  {
+    "ID": 293,
+    "fa_word": "لحاف",
+    "tati_word": "دوآج",
+    "pronunciation": "duāj",
+    "Level": 3
+  },
+  {
+    "ID": 294,
+    "fa_word": "دوک",
+    "tati_word": "دوچه",
+    "pronunciation": "doča",
+    "Level": 2
+  },
+  {
+    "ID": 295,
+    "fa_word": "دوخت",
+    "tati_word": "دوج",
+    "pronunciation": "Duj",
+    "Level": 3
+  },
+  {
+    "ID": 296,
+    "fa_word": "دروغ",
+    "tati_word": "دو رو",
+    "pronunciation": "Duru",
+    "Level": 1
+  },
+  {
+    "ID": 297,
+    "fa_word": "بشقاب",
+    "tati_word": "دوری",
+    "pronunciation": "Dory",
+    "Level": 2
+  },
+  {
+    "ID": 298,
+    "fa_word": "کتف",
+    "tati_word": "دوش",
+    "pronunciation": "doš",
+    "Level": 2
+  },
+  {
+    "ID": 299,
+    "fa_word": "دوشاب",
+    "tati_word": "دوشا",
+    "pronunciation": "došā",
+    "Level": 2
+  },
+  {
+    "ID": 300,
+    "fa_word": "سطل",
+    "tati_word": "دول",
+    "pronunciation": "duol",
+    "Level": 3
+  },
+  {
+    "ID": 301,
+    "fa_word": "دهان",
+    "tati_word": "دون",
+    "pronunciation": "Don",
+    "Level": 2
+  },
+  {
+    "ID": 302,
+    "fa_word": "خوک",
+    "tati_word": "دونقوز",
+    "pronunciation": "dongoz",
+    "Level": 3
+  },
+  {
+    "ID": 303,
+    "fa_word": "کاه گل",
+    "tati_word": "دونه",
+    "pronunciation": "Duona",
+    "Level": 3
+  },
+  {
+    "ID": 304,
+    "fa_word": "آش دوغ",
+    "tati_word": "دونه آش",
+    "pronunciation": "duonaāšh",
+    "Level": 2
+  },
+  {
+    "ID": 305,
+    "fa_word": "سه پایه",
+    "tati_word": "دیزندون",
+    "pronunciation": "dezanduon",
+    "Level": 3
+  },
+  {
+    "ID": 306,
+    "fa_word": "زاج",
+    "tati_word": "زا",
+    "pronunciation": "Za",
+    "Level": 2
+  },
+  {
+    "ID": 307,
+    "fa_word": "بچه",
+    "tati_word": "زارو",
+    "pronunciation": "Zāru",
+    "Level": 1
+  },
+  {
+    "ID": 308,
+    "fa_word": "زالو",
+    "tati_word": "زالوه",
+    "pronunciation": "Zālua",
+    "Level": 1
+  },
+  {
+    "ID": 309,
+    "fa_word": "زردچوبه",
+    "tati_word": "زرد جو ئه",
+    "pronunciation": "zardajua",
+    "Level": 1
+  },
+  {
+    "ID": 310,
+    "fa_word": "زن",
+    "tati_word": "زنیه",
+    "pronunciation": "Zaneya",
+    "Level": 2
+  },
+  {
+    "ID": 311,
+    "fa_word": "زود",
+    "tati_word": "زو",
+    "pronunciation": "zu",
+    "Level": 1
+  },
+  {
+    "ID": 312,
+    "fa_word": "داماد",
+    "tati_word": "زوما",
+    "pronunciation": "Zumā",
+    "Level": 1
+  },
+  {
+    "ID": 313,
+    "fa_word": "زبان",
+    "tati_word": "زون",
+    "pronunciation": "Zun",
+    "Level": 1
+  },
+  {
+    "ID": 314,
+    "fa_word": "زبانه",
+    "tati_word": "زون",
+    "pronunciation": "Zon",
+    "Level": 2
+  },
+  {
+    "ID": 315,
+    "fa_word": "سرخک",
+    "tati_word": "زوه",
+    "pronunciation": "Zua",
+    "Level": 2
+  },
+  {
+    "ID": 316,
+    "fa_word": "سهم",
+    "tati_word": "رست",
+    "pronunciation": "Rasat",
+    "Level": 2
+  },
+  {
+    "ID": 317,
+    "fa_word": "ریسمان",
+    "tati_word": "رسن",
+    "pronunciation": "Rasan",
+    "Level": 3
+  },
+  {
+    "ID": 318,
+    "fa_word": "صورت",
+    "tati_word": "رو",
+    "pronunciation": "ro",
+    "Level": 1
+  },
+  {
+    "ID": 319,
+    "fa_word": "نوه",
+    "tati_word": "روآزا",
+    "pronunciation": "ruāzā",
+    "Level": 1
+  },
+  {
+    "ID": 320,
+    "fa_word": "روز",
+    "tati_word": "روج",
+    "pronunciation": "Ruj",
+    "Level": 1
+  },
+  {
+    "ID": 321,
+    "fa_word": "روزه",
+    "tati_word": "روجه",
+    "pronunciation": "Ruja",
+    "Level": 1
+  },
+  {
+    "ID": 322,
+    "fa_word": "رودخانه",
+    "tati_word": "روخونه",
+    "pronunciation": "roxona",
+    "Level": 1
+  },
+  {
+    "ID": 323,
+    "fa_word": "روشن",
+    "tati_word": "روشن",
+    "pronunciation": "rošen",
+    "Level": 1
+  },
+  {
+    "ID": 324,
+    "fa_word": "ران",
+    "tati_word": "رون",
+    "pronunciation": "ron",
+    "Level": 1
+  },
+  {
+    "ID": 325,
+    "fa_word": "روغن",
+    "tati_word": "رون",
+    "pronunciation": "ron",
+    "Level": 2
+  },
+  {
+    "ID": 326,
+    "fa_word": "ریش",
+    "tati_word": "ریشه",
+    "pronunciation": "Resha",
+    "Level": 2
+  },
+  {
+    "ID": 327,
+    "fa_word": "گول زدن",
+    "tati_word": "رِشقَند",
+    "pronunciation": "Rashgnd",
+    "Level": 3
+  },
+  {
+    "ID": 328,
+    "fa_word": "سبوس",
+    "tati_word": "ساوسه",
+    "pronunciation": "cāvuca",
+    "Level": 2
+  },
+  {
+    "ID": 329,
+    "fa_word": "سبد",
+    "tati_word": "سبده",
+    "pronunciation": "cabada",
+    "Level": 1
+  },
+  {
+    "ID": 330,
+    "fa_word": "به پایین",
+    "tati_word": "سرب جی را",
+    "pronunciation": "carbajerā",
+    "Level": 2
+  },
+  {
+    "ID": 331,
+    "fa_word": "پس فردا",
+    "tati_word": "س را",
+    "pronunciation": "Ca rā",
+    "Level": 3
+  },
+  {
+    "ID": 332,
+    "fa_word": "سفره",
+    "tati_word": "سرفه",
+    "pronunciation": "Carfa",
+    "Level": 2
+  },
+  {
+    "ID": 333,
+    "fa_word": "سبز",
+    "tati_word": "سُز",
+    "pronunciation": "Coz",
+    "Level": 1
+  },
+  {
+    "ID": 334,
+    "fa_word": "ماست کیسه ای",
+    "tati_word": "سزمه",
+    "pronunciation": "cazma",
+    "Level": 3
+  },
+  {
+    "ID": 335,
+    "fa_word": "سطل",
+    "tati_word": "سطیل",
+    "pronunciation": "Catel",
+    "Level": 1
+  },
+  {
+    "ID": 336,
+    "fa_word": "سم",
+    "tati_word": "سَمب",
+    "pronunciation": "Cumb",
+    "Level": 1
+  },
+  {
+    "ID": 337,
+    "fa_word": "سنجد",
+    "tati_word": "سِینجِه",
+    "pronunciation": "Cinjya",
+    "Level": 2
+  },
+  {
+    "ID": 338,
+    "fa_word": "قرمز/سرخ",
+    "tati_word": "سور",
+    "pronunciation": "cor",
+    "Level": 1
+  },
+  {
+    "ID": 339,
+    "fa_word": "شور",
+    "tati_word": "سول",
+    "pronunciation": "Col",
+    "Level": 2
+  },
+  {
+    "ID": 340,
+    "fa_word": "کاه",
+    "tati_word": "سو مر",
+    "pronunciation": "comar",
+    "Level": 3
+  },
+  {
+    "ID": 341,
+    "fa_word": "کاسه سفالی",
+    "tati_word": "سُونیه",
+    "pronunciation": "coniya",
+    "Level": 3
+  },
+  {
+    "ID": 342,
+    "fa_word": "جاور",
+    "tati_word": "سِیرزهَ",
+    "pronunciation": "cerza",
+    "Level": 2
+  },
+  {
+    "ID": 343,
+    "fa_word": "سیخ",
+    "tati_word": "سِیغه",
+    "pronunciation": "ciga",
+    "Level": 2
+  },
+  {
+    "ID": 344,
+    "fa_word": "پوست گردو",
+    "tati_word": "سی له",
+    "pronunciation": "cila",
+    "Level": 3
+  },
+  {
+    "ID": 345,
+    "fa_word": "مترسک",
+    "tati_word": "سی یاله",
+    "pronunciation": "ciyala",
+    "Level": 3
+  },
+  {
+    "ID": 346,
+    "fa_word": "سایه",
+    "tati_word": "سی ن که",
+    "pronunciation": "cynaka",
+    "Level": 2
+  },
+  {
+    "ID": 347,
+    "fa_word": "شاخ",
+    "tati_word": "شاق",
+    "pronunciation": "šāg",
+    "Level": 1
+  },
+  {
+    "ID": 348,
+    "fa_word": "شقه",
+    "tati_word": "شاقه",
+    "pronunciation": "šāga",
+    "Level": 1
+  },
+  {
+    "ID": 349,
+    "fa_word": "نوعی بلغور",
+    "tati_word": "شاقه",
+    "pronunciation": "šāga",
+    "Level": 2
+  },
+  {
+    "ID": 350,
+    "fa_word": "نوعی درخت",
+    "tati_word": "شا له دار",
+    "pronunciation": "alādarš",
+    "Level": 2
+  },
+  {
+    "ID": 351,
+    "fa_word": "شلوار",
+    "tati_word": "شال وار",
+    "pronunciation": "šālvar",
+    "Level": 2
+  },
+  {
+    "ID": 352,
+    "fa_word": "شیر",
+    "tati_word": "شت",
+    "pronunciation": "šat",
+    "Level": 1
+  },
+  {
+    "ID": 353,
+    "fa_word": "شیلنگ",
+    "tati_word": "شلنج",
+    "pronunciation": "šalanj",
+    "Level": 1
+  },
+  {
+    "ID": 354,
+    "fa_word": "زرد آلو",
+    "tati_word": "ش لون چه",
+    "pronunciation": "šlonača",
+    "Level": 2
+  },
+  {
+    "ID": 355,
+    "fa_word": "شب",
+    "tati_word": "شو",
+    "pronunciation": "šo",
+    "Level": 1
+  },
+  {
+    "ID": 356,
+    "fa_word": "شوربا",
+    "tati_word": "شور وا",
+    "pronunciation": "šurvā",
+    "Level": 2
+  },
+  {
+    "ID": 357,
+    "fa_word": "شاپرک",
+    "tati_word": "شوشاپرک",
+    "pronunciation": "šošapārk",
+    "Level": 3
+  },
+  {
+    "ID": 358,
+    "fa_word": "شما",
+    "tati_word": "شوما",
+    "pronunciation": "šomā",
+    "Level": 1
+  },
+  {
+    "ID": 359,
+    "fa_word": "پیراهن",
+    "tati_word": "ش وی",
+    "pronunciation": "šave",
+    "Level": 2
+  },
+  {
+    "ID": 360,
+    "fa_word": "چار شاخه",
+    "tati_word": "شی نی یه",
+    "pronunciation": "šeneya",
+    "Level": 3
+  },
+  {
+    "ID": 361,
+    "fa_word": "خاک شیر",
+    "tati_word": "شی ورون",
+    "pronunciation": "ševaron",
+    "Level": 2
+  },
+  {
+    "ID": 362,
+    "fa_word": "صبحگاه",
+    "tati_word": "صا با چی",
+    "pronunciation": "cābāče",
+    "Level": 3
+  },
+  {
+    "ID": 363,
+    "fa_word": "عطسه",
+    "tati_word": "صبر",
+    "pronunciation": "Cabr",
+    "Level": 2
+  },
+  {
+    "ID": 364,
+    "fa_word": "صبح",
+    "tati_word": "صوب",
+    "pronunciation": "cub",
+    "Level": 1
+  },
+  {
+    "ID": 365,
+    "fa_word": "طوفان",
+    "tati_word": "طوفون",
+    "pronunciation": "Tufon",
+    "Level": 1
+  },
+  {
+    "ID": 366,
+    "fa_word": "عروسی",
+    "tati_word": "طی",
+    "pronunciation": "ty",
+    "Level": 3
+  },
+  {
+    "ID": 367,
+    "fa_word": "استفراغ",
+    "tati_word": "غثیان",
+    "pronunciation": "gseyon",
+    "Level": 3
+  },
+  {
+    "ID": 368,
+    "fa_word": "برف",
+    "tati_word": "فرفه",
+    "pronunciation": "Farfa",
+    "Level": 1
+  },
+  {
+    "ID": 369,
+    "fa_word": "گشاد",
+    "tati_word": "فراق",
+    "pronunciation": "Fārag",
+    "Level": 2
+  },
+  {
+    "ID": 370,
+    "fa_word": "فلانی",
+    "tati_word": "فلونی",
+    "pronunciation": "faloni",
+    "Level": 1
+  },
+  {
+    "ID": 371,
+    "fa_word": "پسر",
+    "tati_word": "فوره",
+    "pronunciation": "Fura",
+    "Level": 1
+  },
+  {
+    "ID": 372,
+    "fa_word": "ته/عُمق",
+    "tati_word": "فنه",
+    "pronunciation": "Fana",
+    "Level": 2
+  },
+  {
+    "ID": 373,
+    "fa_word": "دست کش",
+    "tati_word": "اَلجَچ",
+    "pronunciation": "fana",
+    "Level": 3
+  },
+  {
+    "ID": 374,
+    "fa_word": "قاشق",
+    "tati_word": "قاشوقه",
+    "pronunciation": "gāšoga",
+    "Level": 2
+  },
+  {
+    "ID": 375,
+    "fa_word": "قایم",
+    "tati_word": "قام",
+    "pronunciation": "Gām",
+    "Level": 1
+  },
+  {
+    "ID": 376,
+    "fa_word": "لقمه",
+    "tati_word": "قالاقه",
+    "pronunciation": "gālāga",
+    "Level": 3
+  },
+  {
+    "ID": 377,
+    "fa_word": "کلاغ",
+    "tati_word": "قالاقه",
+    "pronunciation": "gālāga",
+    "Level": 3
+  },
+  {
+    "ID": 378,
+    "fa_word": "پهلو",
+    "tati_word": "ق برقه",
+    "pronunciation": "gabarga",
+    "Level": 3
+  },
+  {
+    "ID": 379,
+    "fa_word": "قوزک",
+    "tati_word": "قُر",
+    "pronunciation": "Gor",
+    "Level": 3
+  },
+  {
+    "ID": 380,
+    "fa_word": "اندازه",
+    "tati_word": "قرار",
+    "pronunciation": "Garār",
+    "Level": 2
+  },
+  {
+    "ID": 381,
+    "fa_word": "قابلمه",
+    "tati_word": "قزون",
+    "pronunciation": "Gazon",
+    "Level": 2
+  },
+  {
+    "ID": 382,
+    "fa_word": "قابلمه",
+    "tati_word": "قزونچه",
+    "pronunciation": "gazonča",
+    "Level": 1
+  },
+  {
+    "ID": 383,
+    "fa_word": "کوچک",
+    "tati_word": "جِقِل",
+    "pronunciation": "Gagl",
+    "Level": 2
+  },
+  {
+    "ID": 384,
+    "fa_word": "بد",
+    "tati_word": "قُلای",
+    "pronunciation": "Goly",
+    "Level": 1
+  },
+  {
+    "ID": 385,
+    "fa_word": "قفل",
+    "tati_word": "قِلف",
+    "pronunciation": "Glf",
+    "Level": 2
+  },
+  {
+    "ID": 386,
+    "fa_word": "پارچه",
+    "tati_word": "قَميص",
+    "pronunciation": "Games",
+    "Level": 3
+  },
+  {
+    "ID": 387,
+    "fa_word": "بغل",
+    "tati_word": "قُوجاق",
+    "pronunciation": "Gojāg",
+    "Level": 2
+  },
+  {
+    "ID": 388,
+    "fa_word": "قلقلک",
+    "tati_word": "قُودُوق",
+    "pronunciation": "Godog",
+    "Level": 3
+  },
+  {
+    "ID": 389,
+    "fa_word": "بلعیدن",
+    "tati_word": "قُورتَه",
+    "pronunciation": "Gorta",
+    "Level": 2
+  },
+  {
+    "ID": 390,
+    "fa_word": "سنگدان",
+    "tati_word": "قُور ساق",
+    "pronunciation": "gorsāg",
+    "Level": 3
+  },
+  {
+    "ID": 391,
+    "fa_word": "پاشنه",
+    "tati_word": "قونج",
+    "pronunciation": "Gonj",
+    "Level": 2
+  },
+  {
+    "ID": 392,
+    "fa_word": "سینی",
+    "tati_word": "قَوهَ سینی",
+    "pronunciation": "gavaseni",
+    "Level": 2
+  },
+  {
+    "ID": 393,
+    "fa_word": "کمربند",
+    "tati_word": "قی شَه",
+    "pronunciation": "geša",
+    "Level": 2
+  },
+  {
+    "ID": 394,
+    "fa_word": "پدرخانم",
+    "tati_word": "قِین",
+    "pronunciation": "gena",
+    "Level": 2
+  },
+  {
+    "ID": 395,
+    "fa_word": "چه کسی",
+    "tati_word": "ک",
+    "pronunciation": "ka",
+    "Level": 1
+  },
+  {
+    "ID": 396,
+    "fa_word": "نوعی سطل",
+    "tati_word": "کتیل",
+    "pronunciation": "katel",
+    "Level": 1
+  },
+  {
+    "ID": 397,
+    "fa_word": "کشک",
+    "tati_word": "کزگ",
+    "pronunciation": "Kaz",
+    "Level": 2
+  },
+  {
+    "ID": 398,
+    "fa_word": "مانده غلات",
+    "tati_word": "گزل",
+    "pronunciation": "Kozal",
+    "Level": 3
+  },
+  {
+    "ID": 399,
+    "fa_word": "چاق",
+    "tati_word": "کُک",
+    "pronunciation": "Kok",
+    "Level": 3
+  },
+  {
+    "ID": 400,
+    "fa_word": "کوک",
+    "tati_word": "کُک",
+    "pronunciation": "kok",
+    "Level": 2
+  },
+  {
+    "ID": 401,
+    "fa_word": "کلوخ",
+    "tati_word": "کلو",
+    "pronunciation": "kalu",
+    "Level": 3
+  },
+  {
+    "ID": 402,
+    "fa_word": "الک",
+    "tati_word": "کمه",
+    "pronunciation": "Kama",
+    "Level": 3
+  },
+  {
+    "ID": 403,
+    "fa_word": "کوچه",
+    "tati_word": "کوچینه",
+    "pronunciation": "kučena",
+    "Level": 2
+  },
+  {
+    "ID": 404,
+    "fa_word": "کور",
+    "tati_word": "کور",
+    "pronunciation": "Kor",
+    "Level": 1
+  },
+  {
+    "ID": 405,
+    "fa_word": "بیسکویت",
+    "tati_word": "کوکوئه",
+    "pronunciation": "Kukua",
+    "Level": 2
+  },
+  {
+    "ID": 406,
+    "fa_word": "کلاه",
+    "tati_word": "کولا",
+    "pronunciation": "Kulā",
+    "Level": 2
+  },
+  {
+    "ID": 407,
+    "fa_word": "خوشه",
+    "tati_word": "کولالیه",
+    "pronunciation": "kulāleya",
+    "Level": 2
+  },
+  {
+    "ID": 408,
+    "fa_word": "کره چشم",
+    "tati_word": "کولالیه",
+    "pronunciation": "kulāleya",
+    "Level": 3
+  },
+  {
+    "ID": 409,
+    "fa_word": "خانه",
+    "tati_word": "کیه",
+    "pronunciation": "Keya",
+    "Level": 2
+  },
+  {
+    "ID": 410,
+    "fa_word": "گوساله",
+    "tati_word": "گوعر",
+    "pronunciation": "goar",
+    "Level": 3
+  },
+  {
+    "ID": 411,
+    "fa_word": "خاک رس",
+    "tati_word": "لات",
+    "pronunciation": "Lāt",
+    "Level": 1
+  },
+  {
+    "ID": 412,
+    "fa_word": "لاابالی",
+    "tati_word": "لات",
+    "pronunciation": "Lāt",
+    "Level": 2
+  },
+  {
+    "ID": 413,
+    "fa_word": "کیسه",
+    "tati_word": "لاقه",
+    "pronunciation": "Lāga",
+    "Level": 3
+  },
+  {
+    "ID": 414,
+    "fa_word": "تاپاله",
+    "tati_word": "لاوا",
+    "pronunciation": "Lāvā",
+    "Level": 2
+  },
+  {
+    "ID": 415,
+    "fa_word": "الاکلنگ",
+    "tati_word": "لنجرچشتی",
+    "pronunciation": "lanjarčošt i",
+    "Level": 3
+  },
+  {
+    "ID": 416,
+    "fa_word": "لب",
+    "tati_word": "لو",
+    "pronunciation": "Lo",
+    "Level": 2
+  },
+  {
+    "ID": 417,
+    "fa_word": "لب (عضو)",
+    "tati_word": "لوشه",
+    "pronunciation": "Loša",
+    "Level": 2
+  },
+  {
+    "ID": 418,
+    "fa_word": "لنگ",
+    "tati_word": "لینگه",
+    "pronunciation": "Lenga",
+    "Level": 1
+  },
+  {
+    "ID": 419,
+    "fa_word": "مسجد",
+    "tati_word": "مَچود",
+    "pronunciation": "mačod",
+    "Level": 2
+  },
+  {
+    "ID": 420,
+    "fa_word": "سینی بزرگ",
+    "tati_word": "مرجومه",
+    "pronunciation": "marčona",
+    "Level": 3
+  },
+  {
+    "ID": 421,
+    "fa_word": "عدس",
+    "tati_word": "مرجو مکه",
+    "pronunciation": "margoma ka",
+    "Level": 3
+  },
+  {
+    "ID": 422,
+    "fa_word": "بند لباس",
+    "tati_word": "مرس",
+    "pronunciation": "maras",
+    "Level": 3
+  },
+  {
+    "ID": 423,
+    "fa_word": "مورچه",
+    "tati_word": "مرچونه",
+    "pronunciation": "marčona",
+    "Level": 2
+  },
+  {
+    "ID": 424,
+    "fa_word": "گربه",
+    "tati_word": "مرچینه",
+    "pronunciation": "maračena",
+    "Level": 2
+  },
+  {
+    "ID": 425,
+    "fa_word": "هسته",
+    "tati_word": "مزج",
+    "pronunciation": "mazj",
+    "Level": 3
+  },
+  {
+    "ID": 426,
+    "fa_word": "خانه",
+    "tati_word": "معله",
+    "pronunciation": "mala",
+    "Level": 2
+  },
+  {
+    "ID": 427,
+    "fa_word": "مهمان",
+    "tati_word": "معمون",
+    "pronunciation": "mamon",
+    "Level": 1
+  },
+  {
+    "ID": 428,
+    "fa_word": "بلال",
+    "tati_word": "مکه",
+    "pronunciation": "maka",
+    "Level": 3
+  },
+  {
+    "ID": 429,
+    "fa_word": "کفشدوزک",
+    "tati_word": "مکَّه نَما",
+    "pronunciation": "makanama",
+    "Level": 3
+  },
+  {
+    "ID": 430,
+    "fa_word": "نجس",
+    "tati_word": "مندال",
+    "pronunciation": "mandāl",
+    "Level": 3
+  },
+  {
+    "ID": 431,
+    "fa_word": "مو",
+    "tati_word": "م و",
+    "pronunciation": "Mava",
+    "Level": 1
+  },
+  {
+    "ID": 432,
+    "fa_word": "داخل",
+    "tati_word": "مون",
+    "pronunciation": "Mon",
+    "Level": 1
+  },
+  {
+    "ID": 433,
+    "fa_word": "وسط",
+    "tati_word": "مونجا",
+    "pronunciation": "Monajā",
+    "Level": 1
+  },
+  {
+    "ID": 434,
+    "fa_word": "میش",
+    "tati_word": "می شه",
+    "pronunciation": "mesha",
+    "Level": 2
+  },
+  {
+    "ID": 435,
+    "fa_word": "عمو",
+    "tati_word": "می می",
+    "pronunciation": "meme",
+    "Level": 1
+  },
+  {
+    "ID": 436,
+    "fa_word": "نوعی انگور",
+    "tati_word": "میش پستون",
+    "pronunciation": "mešpaston",
+    "Level": 3
+  },
+  {
+    "ID": 437,
+    "fa_word": "ناودان",
+    "tati_word": "ناچولوشکه ویار",
+    "pronunciation": "nāčološčvyar",
+    "Level": 3
+  },
+  {
+    "ID": 438,
+    "fa_word": "لثه",
+    "tati_word": "نا چه",
+    "pronunciation": "nāča",
+    "Level": 2
+  },
+  {
+    "ID": 439,
+    "fa_word": "ناهار",
+    "tati_word": "ناشتا",
+    "pronunciation": "nāšta",
+    "Level": 1
+  },
+  {
+    "ID": 440,
+    "fa_word": "نخودچی",
+    "tati_word": "ن خ دونیه",
+    "pronunciation": "naxadoneya",
+    "Level": 3
+  },
+  {
+    "ID": 441,
+    "fa_word": "ناخن",
+    "tati_word": "ن خون",
+    "pronunciation": "naxon",
+    "Level": 1
+  },
+  {
+    "ID": 442,
+    "fa_word": "نخود",
+    "tati_word": "نخوه",
+    "pronunciation": "naxoa",
+    "Level": 1
+  },
+  {
+    "ID": 443,
+    "fa_word": "گوشت کوب",
+    "tati_word": "نخوه بزن",
+    "pronunciation": "naxoabzan",
+    "Level": 2
+  },
+  {
+    "ID": 444,
+    "fa_word": "نردبان",
+    "tati_word": "نردونه",
+    "pronunciation": "nardona",
+    "Level": 1
+  },
+  {
+    "ID": 445,
+    "fa_word": "کال/نرسیده",
+    "tati_word": "نرسسته",
+    "pronunciation": "nrasasta",
+    "Level": 2
+  },
+  {
+    "ID": 446,
+    "fa_word": "کال",
+    "tati_word": "ن رسته",
+    "pronunciation": "n rasta",
+    "Level": 1
+  },
+  {
+    "ID": 447,
+    "fa_word": "نرسیده",
+    "tati_word": "نرسته",
+    "pronunciation": "narasta",
+    "Level": 3
+  },
+  {
+    "ID": 448,
+    "fa_word": "جارو",
+    "tati_word": "نرمه رو",
+    "pronunciation": "narmaru",
+    "Level": 3
+  },
+  {
+    "ID": 449,
+    "fa_word": "نیکو",
+    "tati_word": "نَ کو",
+    "pronunciation": "Na ku",
+    "Level": 2
+  },
+  {
+    "ID": 450,
+    "fa_word": "نمک",
+    "tati_word": "نمچه",
+    "pronunciation": "namača",
+    "Level": 1
+  },
+  {
+    "ID": 451,
+    "fa_word": "کوزه",
+    "tati_word": "نمسونه",
+    "pronunciation": "namcona",
+    "Level": 3
+  },
+  {
+    "ID": 452,
+    "fa_word": "نان",
+    "tati_word": "نُن",
+    "pronunciation": "non",
+    "Level": 1
+  },
+  {
+    "ID": 453,
+    "fa_word": "مادر",
+    "tati_word": "نه نه",
+    "pronunciation": "Nana",
+    "Level": 1
+  },
+  {
+    "ID": 454,
+    "fa_word": "پسرنامزد",
+    "tati_word": "نوموزه",
+    "pronunciation": "nomoza",
+    "Level": 2
+  },
+  {
+    "ID": 455,
+    "fa_word": "دخترنامزد",
+    "tati_word": "نوموزیه",
+    "pronunciation": "nomoziya",
+    "Level": 1
+  },
+  {
+    "ID": 456,
+    "fa_word": "نخ",
+    "tati_word": "نوه",
+    "pronunciation": "Nava",
+    "Level": 3
+  },
+  {
+    "ID": 457,
+    "fa_word": "نامه/نام",
+    "tati_word": "نومه",
+    "pronunciation": "Noma",
+    "Level": 1
+  },
+  {
+    "ID": 458,
+    "fa_word": "مگس",
+    "tati_word": "نیاسه",
+    "pronunciation": "neyāsa",
+    "Level": 3
+  },
+  {
+    "ID": 459,
+    "fa_word": "گهواره",
+    "tati_word": "نی نیه",
+    "pronunciation": "neneya",
+    "Level": 3
+  },
+  {
+    "ID": 460,
+    "fa_word": "باد",
+    "tati_word": "وا",
+    "pronunciation": "Vā",
+    "Level": 1
+  },
+  {
+    "ID": 461,
+    "fa_word": "بازی",
+    "tati_word": "وازی",
+    "pronunciation": "vāzi",
+    "Level": 1
+  },
+  {
+    "ID": 462,
+    "fa_word": "بهار",
+    "tati_word": "واهار",
+    "pronunciation": "vāhār",
+    "Level": 1
+  },
+  {
+    "ID": 463,
+    "fa_word": "قاصدک",
+    "tati_word": "وای وایچه",
+    "pronunciation": "vāyvāāča",
+    "Level": 3
+  },
+  {
+    "ID": 464,
+    "fa_word": "وجب",
+    "tati_word": "وجه",
+    "pronunciation": "Vja",
+    "Level": 2
+  },
+  {
+    "ID": 465,
+    "fa_word": "موذی",
+    "tati_word": "ورا یز",
+    "pronunciation": "varāyz",
+    "Level": 2
+  },
+  {
+    "ID": 466,
+    "fa_word": "گرگ",
+    "tati_word": "ورج",
+    "pronunciation": "Varj",
+    "Level": 1
+  },
+  {
+    "ID": 467,
+    "fa_word": "خاشاک",
+    "tati_word": "ورچه",
+    "pronunciation": "varča",
+    "Level": 3
+  },
+  {
+    "ID": 468,
+    "fa_word": "نورد",
+    "tati_word": "وردنه",
+    "pronunciation": "Vardana",
+    "Level": 3
+  },
+  {
+    "ID": 469,
+    "fa_word": "بره",
+    "tati_word": "وره",
+    "pronunciation": "Vara",
+    "Level": 2
+  },
+  {
+    "ID": 470,
+    "fa_word": "بس",
+    "tati_word": "وس",
+    "pronunciation": "Vas",
+    "Level": 1
+  },
+  {
+    "ID": 471,
+    "fa_word": "خواهر شوهر",
+    "tati_word": "وسیده",
+    "pronunciation": "Vaseda",
+    "Level": 2
+  },
+  {
+    "ID": 472,
+    "fa_word": "غوزه پنبه",
+    "tati_word": "وشندونیه",
+    "pronunciation": "vašandoniya",
+    "Level": 3
+  },
+  {
+    "ID": 473,
+    "fa_word": "قلوه/کلیه",
+    "tati_word": "وک",
+    "pronunciation": "Vak",
+    "Level": 1
+  },
+  {
+    "ID": 474,
+    "fa_word": "گل",
+    "tati_word": "وله",
+    "pronunciation": "Vala",
+    "Level": 2
+  },
+  {
+    "ID": 475,
+    "fa_word": "تشک",
+    "tati_word": "ویستر",
+    "pronunciation": "Vestar",
+    "Level": 2
+  },
+  {
+    "ID": 476,
+    "fa_word": "بیشتر",
+    "tati_word": "ویشتر",
+    "pronunciation": "veshtar",
+    "Level": 2
+  },
+  {
+    "ID": 477,
+    "fa_word": "گنجشک",
+    "tati_word": "ویشچنجه",
+    "pronunciation": "vešjenja",
+    "Level": 2
+  },
+  {
+    "ID": 478,
+    "fa_word": "یاد/خاطر",
+    "tati_word": "ویر",
+    "pronunciation": "Ver",
+    "Level": 3
+  },
+  {
+    "ID": 479,
+    "fa_word": "بادام",
+    "tati_word": "ویمه",
+    "pronunciation": "Vyma",
+    "Level": 2
+  },
+  {
+    "ID": 480,
+    "fa_word": "بینی",
+    "tati_word": "وینیه",
+    "pronunciation": "veneya",
+    "Level": 1
+  },
+  {
+    "ID": 481,
+    "fa_word": "عروس",
+    "tati_word": "ویه",
+    "pronunciation": "Vaya",
+    "Level": 1
+  },
+  {
+    "ID": 482,
+    "fa_word": "عروسک",
+    "tati_word": "ویه",
+    "pronunciation": "Vaya",
+    "Level": 2
+  },
+  {
+    "ID": 483,
+    "fa_word": "درخت بید",
+    "tati_word": "ویه دار",
+    "pronunciation": "vyadār",
+    "Level": 3
+  },
+  {
+    "ID": 484,
+    "fa_word": "سوت",
+    "tati_word": "هشتک",
+    "pronunciation": "hoštak",
+    "Level": 3
+  },
+  {
+    "ID": 485,
+    "fa_word": "هیچ",
+    "tati_word": "هرزه",
+    "pronunciation": "harza",
+    "Level": 2
+  },
+  {
+    "ID": 486,
+    "fa_word": "نوعی انگور",
+    "tati_word": "هرزه انگوره",
+    "pronunciation": "harzaan",
+    "Level": 2
+  },
+  {
+    "ID": 487,
+    "fa_word": "آدامس",
+    "tati_word": "هلج",
+    "pronunciation": "Hlj",
+    "Level": 3
+  },
+  {
+    "ID": 488,
+    "fa_word": "هندوانه",
+    "tati_word": "هندونه",
+    "pronunciation": "handona",
+    "Level": 1
+  },
+  {
+    "ID": 489,
+    "fa_word": "هنوز",
+    "tati_word": "هنی",
+    "pronunciation": "hani",
+    "Level": 1
+  },
+  {
+    "ID": 490,
+    "fa_word": "هیچی",
+    "tati_word": "هوچو",
+    "pronunciation": "hučo",
+    "Level": 1
+  },
+  {
+    "ID": 491,
+    "fa_word": "هاون",
+    "tati_word": "هونگ",
+    "pronunciation": "havang",
+    "Level": 3
+  },
+  {
+    "ID": 492,
+    "fa_word": "برادر شوهر",
+    "tati_word": "هی ور",
+    "pronunciation": "Hevar",
+    "Level": 2
+  },
+  {
+    "ID": 493,
+    "fa_word": "جا",
+    "tati_word": "یاجه",
+    "pronunciation": "Yāga",
+    "Level": 2
+  },
+  {
+    "ID": 494,
+    "fa_word": "قمری",
+    "tati_word": "یا کریم",
+    "pronunciation": "yākarem",
+    "Level": 1
+  },
+  {
+    "ID": 495,
+    "fa_word": "روسری",
+    "tati_word": "یالوقه",
+    "pronunciation": "yāloga",
+    "Level": 2
+  },
+  {
+    "ID": 496,
+    "fa_word": "جو",
+    "tati_word": "یو",
+    "pronunciation": "Yo",
+    "Level": 1
+  },
+  {
+    "ID": 497,
+    "fa_word": "مثل اینکه",
+    "tati_word": "یو",
+    "pronunciation": "Yo",
+    "Level": 1
+  },
+  {
+    "ID": 498,
+    "fa_word": "روش/مُد",
+    "tati_word": "یو ره",
+    "pronunciation": "Yora",
+    "Level": 1
+  },
+  {
+    "ID": 499,
+    "fa_word": "گردو",
+    "tati_word": "یوز",
+    "pronunciation": "Yoz",
+    "Level": 2
+  },
+  {
+    "ID": 500,
+    "fa_word": "جوش",
+    "tati_word": "یوش",
+    "pronunciation": "yoš",
+    "Level": 3
+  },
+  {
+    "ID": 501,
+    "fa_word": "زمین گندم",
+    "tati_word": "یون",
+    "pronunciation": "Yon",
+    "Level": 3
+  },
+  {
+    "ID": 502,
+    "fa_word": "جان /بدن",
+    "tati_word": "یون",
+    "pronunciation": "yon",
+    "Level": 2
+  },
+  {
+    "ID": 503,
+    "fa_word": "شوخ/شنگ",
+    "tati_word": "یونجل",
+    "pronunciation": "yonjol",
+    "Level": 2
+  }
+]
